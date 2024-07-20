@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://litycarbi.github.io/sitemap
+Sitemap: https://litycarbi.github.io/app/sitemap
+Sitemap: https://litycarbi.github.io/assets/sitemap
+Sitemap: https://litycarbi.github.io/css/sitemap
+Sitemap: https://litycarbi.github.io/includes/sitemap
+Sitemap: https://litycarbi.github.io/item/sitemap
+Sitemap: https://litycarbi.github.io/src/sitemap
